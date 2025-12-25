@@ -34,6 +34,10 @@ We do not sell, rent, or share user information for advertising or marketing pur
 
 Advisa may rely on third-party services such as Google Play Services or analytics and crash-reporting tools. These services may collect information as governed by their own privacy policies and are used only to support app functionality and stability.
 
+It also relies on Zen Quotes API(https://zenquotes.io/api/) where it fetches the quotes from the internet and displays them on the app screen.
+
+
+
 ---
 
 ## Data Security
